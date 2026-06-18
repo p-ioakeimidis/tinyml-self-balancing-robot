@@ -62,8 +62,8 @@ Before running the Arduino code, the following setup steps are required:
 
 You must manually add the following library to the Arduino IDE:
 
-```text
-ei-complimentary_98-arduino-1.0.6.zip ``` (located in the text model/ folder)
+
+```text ei-complimentary_98-arduino-1.0.6.zip ``` (located in the text model/ folder)
 
 
 To install it:
