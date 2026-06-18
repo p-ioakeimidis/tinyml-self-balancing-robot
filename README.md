@@ -54,6 +54,27 @@ The development process consists of the following steps:
 ├── Data/             # Collected datasets 
 └── README.md
 ```
+## Requirements & Setup
+
+Before running the Arduino code, the following setup steps are required:
+
+1. Install Required Library
+
+You must manually add the following library to the Arduino IDE:
+
+ei-complimentary_98-arduino-1.0.6.zip (located in the model/ folder)
+
+To install it:
+
+Open Arduino IDE
+Go to Sketch → Include Library → Add .ZIP Library
+Select the file from the model folder
+2. IMU Calibration
+
+IMU calibration was required to ensure accurate sensor readings for stable balancing performance.
+
+The calibration procedure and code are included in the Arduino/ folder.
+Make sure to run the calibration script before uploading the main control code.
 
 ## Results
 
