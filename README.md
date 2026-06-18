@@ -3,6 +3,7 @@
 ## Overview
 
 This project demonstrates the implementation of a **Tiny Machine Learning (TinyML)** model for controlling a two-wheeled self-balancing robot using the **Arduino Nano 33 BLE Sense**. The objective is to replace a traditional control algorithm with a lightweight neural network capable of performing real-time inference on resource-constrained embedded hardware.
+
 <img width="454" height="576" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2b2fea44-4ef4-424e-a115-6406bc5aebd4" />
 
 ## Project Workflow
