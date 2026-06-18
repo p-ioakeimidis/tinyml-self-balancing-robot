@@ -58,7 +58,7 @@ The development process consists of the following steps:
 
 Before running the Arduino code, the following setup steps are required:
 
-1. Install Required Library
+1. **Install Required Library**
 
 You must manually add the following library to the Arduino IDE:
 
@@ -69,7 +69,8 @@ To install it:
 Open Arduino IDE
 Go to Sketch → Include Library → Add .ZIP Library
 Select the file from the model folder
-2. IMU Calibration
+
+2. **IMU Calibration**
 
 IMU calibration was required to ensure accurate sensor readings for stable balancing performance.
 
